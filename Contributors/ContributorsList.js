@@ -9,4 +9,9 @@ contributors = [
       fullname: "Abhishek Kashyap",
       username: "https://github.com/theabhishek26",
     },
+    {
+      id: 3,
+      fullname: "Abhishek Kashyap",
+      username: "https://github.com/ariyoaresa",
+    },
 ];
